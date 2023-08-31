@@ -13,12 +13,15 @@ import: https://raw.githubusercontent.com/LiaScript/CodeRunner/master/README.md
 
 -->
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/PythonCourse_2023/main/README.md#1)
+
 # Python Summer School 2023 - Part B - 2th September
 
 Organizers and Lectureres 
 
 + Yekaterina Strigina
 + Sebastian Zug (TU Bergakademie Freiberg)
+
 
 ------------------------------------------------------------
 
