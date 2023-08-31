@@ -37,6 +37,11 @@ __Agenda of this day__
 | 13:30 - 14:45 | Basics of data analysis using pandas                       |
 | 15:00 - 16:15 | Visualisation of pandas data frames                        |
 
+### Your background
+
+
+
+
 ### Preparation
 
 __Step 1:__ Please install the following Python packages on your maschine:
@@ -93,6 +98,29 @@ print(result)
 
 ## Session 1 - Review, comparison of Jupyter notebooks and Python scripts 
 
+> What's the general idea of the code example above?
+
+1. Write Code 
+2. Start the Python interpreter
+
+__Python scripts__ are ideal for automation, integration, and deployment, as they are portable, flexible, and easy to maintain. They are executed linearly, in a top-down fashion. The output is displayed in the terminal or console. Code is shared as plain text files.
+
+{{1}}
+On the other hand, __Jupyter Notebooks__ execute python code too. But they are ideal for data exploration and visualization, as they are interactive and support rich media. They consist of multiple cells that can contain either a block of Python code or plain text. Cells can be executed in any order. The output is displayed in the notebook. Code is shared as notebook files.
+
+{{2}}
+> Let's start to do some practical work ! Download XXXX to you project folder.
+
+{{3}}
+| **Feature** | **Python Scripts** | **Jupyter Notebooks** |
+|-------------|-------------------|-----------------------|
+| File extension | .py | .ipynb |
+| Text editor | Any text editor or IDE | Not meant to be directly opened with text editors |
+| Execution | Linearly, in a top-down fashion | Cells can be executed in any order |
+| Output display | Output is displayed in the terminal or console | Output is displayed in the notebook |
+| Code sharing | Code is shared as plain text files | Code is shared as notebook files |
+| Data visualization | Not ideal for data visualization | Ideal for data exploration and visualization |
+| Automation and deployment | More suitable for automation, integration, and deployment | Less suitable for automation, integration, and deployment |
 
 ## Session 2 - Introduction to image processing based on opencv 
 
