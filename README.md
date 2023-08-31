@@ -68,11 +68,11 @@ __Step 4:__ Generate an ChatGPT account - we will use the AI for boosting our pr
 
 ### Warm up
 
-> __Task:__ Implement a python class `complex_calc` containing a list of entrys `value_list` and a method `multiply_list(multiplyer)`. The program initiates an instance of the class, reads the input of a user, calls the `multiply_list` methods.
+> __Task:__ Implement a Python class `complex_calc` containing a list of entrys `value_list` and a method `multiply_list(multiplyer)`. The program initiates an instance of the class, reads the input of a user, calls the `multiply_list` methods.
 
 > __Hint:__ Use [ChatGPT](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) or any other AI to fasten up your coding. 
 > 
-> ![An Atlas-Agena 5 carrying the Mariner 1 spacecraft](./images/ChatGPT_Python_script.png)
+> ![ChatGPT example](./images/ChatGPT_Python_script.png)
 
 {{1}}
 ```python Solution.py
@@ -109,7 +109,10 @@ __Python scripts__ are ideal for automation, integration, and deployment, as the
 On the other hand, __Jupyter Notebooks__ execute python code too. But they are ideal for data exploration and visualization, as they are interactive and support rich media. They consist of multiple cells that can contain either a block of Python code or plain text. Cells can be executed in any order. The output is displayed in the notebook. Code is shared as notebook files.
 
 {{2}}
-> Let's start to do some practical work ! Download XXXX to you project folder.
+> Let's start to do some practical work ! Download [Notebook](https://github.com/SebastianZug/PythonCourse_2023/archive/refs/heads/main.zip) to your computer and open it as a project folder.
+
+{{2}}
+![ChatGPT example](./images/Screenshot_Notebook.png)
 
 {{3}}
 | **Feature** | **Python Scripts** | **Jupyter Notebooks** |
