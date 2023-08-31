@@ -39,19 +39,29 @@ __Agenda of this day__
 
 ### Preparation
 
-Please install the following Python packages on your maschine:
+__Step 1:__ Please install the following Python packages on your maschine:
 
 + opencv - `pip install opencv-python`
 + pandas - `pip install pandas`
-+ 
 
-Additionally, it is necessary to add the 
+__Step 2:__ Additionally, it is necessary to add the [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+package to your Visual Studio Code environment. 
 
-[Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+!?[](https://www.youtube.com/watch?v=ei-WirjwtOM)
 
-to your Visual Studio Code environment. A short explaination is available [here](https://www.alphr.com/vs-code-open-jupyter-notebook/).
+__Step 3:__ Check the correctness of the implementation by opening a new file (shown in the move above) and adding the following code
 
-### Remember the previous tutorial ...
+```
+import pandas as pd
+
+pd.__version__
+```
+
+If something like `'1.5.0'` appears everything is fine. In case of `ModuleNotFoundError: No module named 'pandas'` check the installation outputs of Step 1.
+
+__Step 4:__ Generate an ChatGPT account - we will use the AI for boosting our programming activities.
+
+### Warm up
 
 > __Task:__ Implement a python class `complex_calc` containing a list of entrys `value_list` and a method `multiply_list(multiplyer)`. The program initiates an instance of the class, reads the input of a user, calls the `multiply_list` methods.
 
@@ -80,3 +90,14 @@ result = my_instance.multiply_list(multiplier)
 print(result)  
 ```
 @LIA.eval(`["main.py"]`, `none`, `python3 main.py`)
+
+## Session 1 - Review, comparison of Jupyter notebooks and Python scripts 
+
+
+## Session 2 - Introduction to image processing based on opencv 
+
+
+## Session 3 - Basics of data analysis using pandas 
+
+
+## Session 4 - Visualisation of pandas data frames
