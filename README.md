@@ -25,7 +25,9 @@ Organizers and Lectureres
 
 ------------------------------------------------------------
 
-## Agenda of this day
+## Organisation
+
+__Agenda of this day__
 
 | Slot          | Topic                                                      |
 |---------------|----------------------------------------------------------- |
@@ -35,7 +37,21 @@ Organizers and Lectureres
 | 13:30 - 14:45 | Basics of data analysis using pandas                       |
 | 15:00 - 16:15 | Visualisation of pandas data frames                        |
 
-## Remember the previous tutorial ...
+### Preparation
+
+Please install the following Python packages on your maschine:
+
++ opencv - `pip install opencv-python`
++ pandas - `pip install pandas`
++ 
+
+Additionally, it is necessary to add the 
+
+[Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+
+to your Visual Studio Code environment. A short explaination is available [here](https://www.alphr.com/vs-code-open-jupyter-notebook/).
+
+### Remember the previous tutorial ...
 
 > __Task:__ Implement a python class `complex_calc` containing a list of entrys `value_list` and a method `multiply_list(multiplyer)`. The program initiates an instance of the class, reads the input of a user, calls the `multiply_list` methods.
 
