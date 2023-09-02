@@ -19,7 +19,7 @@
 Take a look at the materials of the course:
 
 + all theoretical and practical materials [https://github.com/SebastianZug/PythonCourse_2023](https://github.com/SebastianZug/PythonCourse_2023)
-+ Interactive LiaScript document - [bit.ly/3r1sRug](bit.ly/3r1sRug)
++ Interactive LiaScript document - [bit.ly/3r1sRug](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/PythonCourse_2023/main/README.md#1)
 + this document [https://github.com/SebastianZug/PythonCourse_2023/blob/main/cheat_sheet.md](https://github.com/SebastianZug/PythonCourse_2023/blob/main/cheat_sheet.md)
 
 
