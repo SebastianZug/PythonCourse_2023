@@ -20,7 +20,7 @@ Take a look at the materials of the course:
 
 + all theoretical and practical materials [https://github.com/SebastianZug/PythonCourse_2023](https://github.com/SebastianZug/PythonCourse_2023)
 + Interactive LiaScript document - [bit.ly/3r1sRug](bit.ly/3r1sRug)
-+ this document [https://github.com/SebastianZug/PythonCourse_2023/cheat_sheet.md](https://github.com/SebastianZug/PythonCourse_2023/cheat_sheet.md)
++ this document [https://github.com/SebastianZug/PythonCourse_2023/blob/main/cheat_sheet.md](https://github.com/SebastianZug/PythonCourse_2023/blob/main/cheat_sheet.md)
 
 
 This pdf was generate by pandoc from the markdown file. The command used was:
