@@ -3,7 +3,7 @@ author:   André Dietrich
 
 email:    LiaScript@web.de
 
-version:  0.0.1
+version:  0.0.2
 
 language: en
 
@@ -17,12 +17,17 @@ import: https://raw.githubusercontent.com/LiaScript/CodeRunner/master/README.md
 
 # Python Summer School 2023 - Part B - 2th September
 
-Organizers and Lectureres 
-
 + Yekaterina Strigina
++ Frank Schrödel
 + Sebastian Zug (TU Bergakademie Freiberg)
 
 ------------------------------------------------------------
+
+```python main.py   
+print("Welcome to the course!")
+```
+@LIA.eval(`["main.py"]`, `none`, `python3 main.py`)
+
 
 ## Organisation
 
