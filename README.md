@@ -470,4 +470,4 @@ plt.savefig('foo.png')
 
 ### Just do it
 
-The repository you downloaded contains a second tutorial folder `tutorial_3+4`. Please open the folder and start the notebook `tutorial_3.ipynb`.
+The repository you downloaded contains a second tutorial folder `tutorial_3+4`. Please open the folder and start the notebook `tutorial_4.ipynb`.
